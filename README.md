@@ -1,4 +1,4 @@
-# Twitter Social medi and Text Analysis
+# Twitter Social Media and Text Analysis
 The objective of this project is to analyse the sentiment of twitter users through their tweets to understand the reaction of the people towards an ongoing event.
 
 ## Prerequisite
